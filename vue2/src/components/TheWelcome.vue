@@ -73,7 +73,6 @@
       help us by
       <a target="_blank" href="https://vuejs.org/sponsor/">becoming a sponsor</a>.
     </WelcomeItem>
-    <div>{{ props.value }}</div>
   </div>
 </template>
 <script setup lang="ts">

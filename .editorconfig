@@ -1,0 +1,30 @@
+[*.js,*.vue,*.ts]
+# インデントと間隔
+indent_size = 2
+indent_style = space
+tab_width = 2
+
+# 改行設定
+end_of_line = lf
+insert_final_newline =true
+
+[*.json]
+# インデントと間隔
+indent_size = 2
+indent_style = space
+tab_width = 2
+
+# 改行設定
+end_of_line = lf
+# insert_final_newline =true
+
+[.vscode/*.json]
+indent_size = 4
+indent_style = space
+tab_width = 4
+
+
+[*.md]
+
+# 改行設定
+end_of_line = lf
